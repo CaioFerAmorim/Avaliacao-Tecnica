@@ -1,0 +1,16 @@
+html,body{
+    height: 100%;
+}
+.form-container {
+    max-width: 800px;
+    padding: 1rem;
+}
+.btn {
+    width: 30%;
+}
+label.error{
+    font-weight: 600;
+    display: block;
+    color: rgba(255, 0, 0, 0.793);
+    font-size: 14px;
+}
