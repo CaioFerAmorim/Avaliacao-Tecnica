@@ -1,1 +1,1 @@
-Avaliação técnica para a empresa NTL. Formulário simples com validação de dados e conectado com o banco de dados. Enfrentei alguns problemas por não utilizar alguns itens antes, porém, em um dia consultando algumas bibliotecas e cursos, foi possível regular todos os requisitos.
+Avaliação técnica para a empresa NTL. Formulário simples com validação de dados e conectado com o banco de dados. Enfrentei alguns problemas por não ter experiência com alguns itens antes, porém, em um dia consultando algumas bibliotecas e cursos, foi possível regular todos os requisitos.
